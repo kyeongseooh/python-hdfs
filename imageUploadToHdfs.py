@@ -1,9 +1,6 @@
 import pandas as pd
 from hdfs import InsecureClient
 import os
-import pandas as pd
-from hdfs import InsecureClient
-import os
 import io
 import matplotlib.pyplot as plt
 from PIL import Image
